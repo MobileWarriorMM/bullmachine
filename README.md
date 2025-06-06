@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # bull_machine
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# bullmachine
+bull appp
+>>>>>>> fc29cc49cb1d85ead1c99f95de673203d9adbf6c
